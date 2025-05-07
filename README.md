@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Fahim Shahriar
 
-<!--
-**fahim-shahriar-sqa/fahim-shahriar-sqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Quality Assurance (SQA) Engineer
 
-Here are some ideas to get you started:
+I am an **SQA Engineer** with hands-on experience in **manual testing**, **API testing**, and **performance testing**. Currently, I am expanding my skills in **Java** and **automation testing** to enhance my ability to deliver high-quality, reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools:
+- **Postman**  
+- **IntelliJ IDEA**  
+- **JMeter**  
+- **Jira**  
+- **Selenium**  
+- **Git**
+
+---
+
+### 📂 Completed Projects:
+I have successfully completed several **manual testing** and **API testing** projects independently, where I focused on:
+- Crafting test plans and scenarios.
+- Executing tests and reporting issues.
+- Automating basic API testing tasks with Postman and JMeter.
+
+---
+
+### 🚀 Current Learning Focus:
+I am currently enhancing my skills in **Java** and **automation testing** to better automate testing workflows and improve testing efficiency.
+
+---
+
+Feel free to check out my repositories to see my progress and projects!
+
+*
+* 
+
