@@ -35,14 +35,10 @@ Currently, I am expanding my expertise in Java-based automation frameworks and m
 
 ---
 
-
----
-
 ## 🎓 Education
 
 **Bachelor of Information Technology**  
 International Islamic University Malaysia (IIUM)  
-CGPA: 3.09 / 4.00
 
 ---
 
